@@ -1,4 +1,4 @@
-# Welcome to Amex Droid!
+# Welcome to Hub Droid!
 
 <p align=center><img src="https://github.com/Team-Code-Paradox/AmexDroid/blob/master/Assets/preview.gif" alt="Preview" height="600" width="320"/></p>
 
